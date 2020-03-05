@@ -1,0 +1,9 @@
+edu\ieti\task\services\TaskService.class
+edu\ieti\task\controllers\TaskController.class
+edu\ieti\task\services\Impl\TaskServiceImpl.class
+edu\ieti\task\services\UserService.class
+edu\ieti\task\controllers\UserController.class
+edu\ieti\task\services\Impl\UserServiceImpl.class
+edu\ieti\task\TaskApplication.class
+edu\ieti\task\model\Task.class
+edu\ieti\task\model\User.class
